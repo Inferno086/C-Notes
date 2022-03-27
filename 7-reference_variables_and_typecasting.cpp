@@ -11,6 +11,12 @@ int main(){
     // Reference Variables
     /*Reference variables can be defined as another name for an already
     existing variable. These are also called an alias.*/
+    /*After you create the reference, whenever you use the variable, you
+    can just treat it as though it were a regular integer variable. But
+    when you create it, you must initialize it with another variable, whose
+    address it will keep around behind the scenes to allow you to use it to
+    modify that variable.*/
+    
     int sum = 455;
     int &add = sum; // & is used to make a reference variable
     cout<<sum<<endl;
