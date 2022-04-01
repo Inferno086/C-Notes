@@ -1,0 +1,35 @@
+15. Functions & Function Prototypes in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-15/
+
+16. Call by Value & Call by Reference in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-16/
+
+17. Inline Functions, Default Arguments & Constant Arguments in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-17/
+
+18. Recursions & Recursive Functions in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-18/
+
+19. Function Overloading with Examples in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-19/
+
+20. Object Oriented Programming in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-20/
+
+21. Classes, Public and Private access modifiers in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-21/
+
+22. OOPs Recap & Nesting of Member Functions in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-22/
+
+23. C++ Objects Memory Allocation & using Arrays in Classes
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-23/
+
+24. Static Data Members & Methods in C++ OOPS
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-24/
+- https://www.tutorialspoint.com/cplusplus/cpp_static_members.htm
+- https://docs.microsoft.com/en-us/cpp/cpp/static-members-cpp?view=msvc-170
+
+25. Array of Objects & Passing Objects as Function Arguments in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-25/
+- https://www.includehelp.com/cpp-tutorial/object-as-an-argument-in-cpp-with-example.aspx
