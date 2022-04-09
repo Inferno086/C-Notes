@@ -1,0 +1,210 @@
+************************* C++ NOTES *************************
+
+1. Introduction to C++, Installing VS Code, g++ & more
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-1/
+
+2. Basic Structure of a C++ Program 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-2/
+
+3. Variables & Comments in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-3/
+
+4. Variable Scope & Data Types in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-4/
+
+5. C++ Basic Input/Output & More
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-5/
+
+6. C++ Header files & Operators 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-6/
+
+7. C++ Reference Variables & Typecasting 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-7/
+
+8. Constants, Manipulators & Operator Precedence 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-8/
+- https://en.cppreference.com/w/cpp/language/operator_precedence
+
+9. C++ Control Structures, If Else and Switch-Case Statement
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-9/
+- https://www.tutorialspoint.com/cplusplus/cpp_switch_statement.htm
+
+10. For, While and do-while loops in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-10/
+
+11. Break and Continue Statements in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-11/
+- https://www.codesdope.com/cpp-controlling-loop/
+
+12. Pointers in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-12/
+
+13. Arrays & Pointers Arithmetic in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-13/
+
+14. Structures, Unions & Enums in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-14/
+
+15. Functions & Function Prototypes in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-15/
+
+16. Call by Value & Call by Reference in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-16/
+
+17. Inline Functions, Default Arguments & Constant Arguments in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-17/
+
+18. Recursions & Recursive Functions in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-18/
+
+19. Function Overloading with Examples in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-19/
+
+20. Object Oriented Programming in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-20/
+
+21. Classes, Public and Private access modifiers in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-21/
+
+22. OOPs Recap & Nesting of Member Functions in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-22/
+
+23. C++ Objects Memory Allocation & using Arrays in Classes
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-23/
+
+24. Static Data Members & Methods in C++ OOPS
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-24/
+- https://www.tutorialspoint.com/cplusplus/cpp_static_members.htm
+- https://docs.microsoft.com/en-us/cpp/cpp/static-members-cpp?view=msvc-170
+
+25. Array of Objects & Passing Objects as Function Arguments in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-25/
+- https://www.includehelp.com/cpp-tutorial/object-as-an-argument-in-cpp-with-example.aspx
+
+26. Friend Functions in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-26/
+- https://www.javatpoint.com/cpp-friend-function
+
+27. Friend Classes & Member Friend Functions in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-27/
+
+28. More on C++ Friend Functions (Examples & Explanation)
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-28/
+
+29. Constructors In C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-29/
+
+30. Parameterized and Default Constructors In C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-30/
+- https://www.programiz.com/cpp-programming/constructors
+
+31. Constructor Overloading In C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-31/
+
+32. Constructors With Default Arguments In C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-32/
+
+33. Dynamic Initialization of Objects Using Constructors
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-33/
+
+34. Copy Constructor in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-34/
+- https://www.javatpoint.com/cpp-copy-constructor
+- https://www.tutorialspoint.com/cplusplus/cpp_copy_constructor.htm
+- https://stackoverflow.com/questions/22348822/why-ampersand-is-used-in-copy-constructor
+- https://stackoverflow.com/questions/27898315/why-cant-we-use-pass-by-pointer-in-copy-constructor-in-c#:~:text=No%2C%20you%20couldn't.,not%20be%20a%20copy%20constructor.
+
+35. Destructor in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-35/
+- https://www.tutorialspoint.com/destructors-in-cplusplus
+
+36. Inheritance & Its Different Types with Examples in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-36/
+
+37. Inheritance Syntax & Visibility Mode in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-37/
+- https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm
+
+38. Single Inheritance Deep Dive: Examples + Code
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-38/
+- https://www.studytonight.com/cpp/order-of-constructor-call.php
+
+39. Protected Access Modifier in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-39/
+
+40. Multilevel Inheritance Deep Dive with Code Example in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-40/
+
+41. Multiple Inheritance Deep Dive with Code Example in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-41/
+
+42. Exercise on C++ Inheritance
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-42/
+
+43. Ambiguity Resolution in Inheritance in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-43/
+
+44. Virtual Base Class in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-44/
+
+45. Code Example Demonstrating Virtual Base Class in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-45/
+- https://www.tutorialspoint.com/what-is-a-virtual-base-class-in-cplusplus
+
+46. Constructors in Derived Class in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-46/
+
+47. Solution to Exercise on Cpp Inheritance
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-47/
+
+48. Code Example: Constructors in Derived Class in Cpp
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-48/
+
+49. Initialization list in Constructors in Cpp 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-49/
+- https://www.cprogramming.com/tutorial/initialization-lists-c++.html
+
+50. Revisiting Pointers: new and delete Keywords in CPP 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-50/
+- https://stackoverflow.com/questions/655065/when-should-i-use-the-new-keyword-in-c
+
+51. Pointers to Objects and Arrow Operator in CPP
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-51/
+- https://www.includehelp.com/cpp-tutorial/arrow-operator-as-class-member-access-operator.aspx
+
+52. Array of Objects Using Pointers in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-52/
+
+53. this Pointer in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-53/
+- https://www.tutorialspoint.com/cplusplus/cpp_this_pointer.htm#:~:text=Every%20object%20in%20C%2B%2B%20has,refer%20to%20the%20invoking%20object.
+
+54. Polymorphism in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-54/
+
+55. Pointers to Derived Classes in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-55/
+- https://programmingknow.com/cpp-pointer-to-derived-class/
+
+56. Virtual Functions in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-56/
+- https://stackoverflow.com/questions/8824359/why-use-virtual-functions
+- https://www.programiz.com/cpp-programming/virtual-functions#:~:text=A%20virtual%20function%20is%20a,object%20of%20a%20derived%20class.
+
+57. Virtual Functions Example + Creation Rules in C++
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-57/
+
+58. Abstract Base Class & Pure Virtual Functions in C++ 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-58/
+
+59. File I/O in C++: Working with Files 
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-59/
+
+60. File I/O in C++: Reading and Writing Files
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-60/
+
+61. File I/O in C++: Read/Write in the Same Program & Closing Files
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-61/
+
+62. File I/O in C++: open() and eof() functions
+- https://codewithharry.com/videos/cpp-tutorials-in-hindi-62/
